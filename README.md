@@ -23,7 +23,7 @@ I am a passionate software engineer with a variety of programming skills. Here�
 
 If you’re as passionate about software development as I am, let’s keep in touch! Feel free to explore opportunities to collaborate, learn and grow together.
 
-[Linked](https://www.linkedin.com/in/saeidansarinejad/)](https://www.linkedin.com/in/saeid-ansarinejad-60996390/)
+[Linked](https://www.linkedin.com/in/saeid-ansarinejad-60996390/)
 [GitHub](https://github.com/saeid-ansarinejad)
 [email](saeed.ansarinejad@gmail.com)
 
